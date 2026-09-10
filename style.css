@@ -32,10 +32,13 @@ li {
     margin: 10px auto;
     padding: 15px;
     max-width: 400px;
-    border-radius: 8px;header img {
+    border-radius: 8px;
+}
+
+/* TAMANHO DA LOGO */
+header img {
     width: 180px;
     height: auto;
     display: block;
     margin: 0 auto 20px;
-}
 }
