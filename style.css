@@ -31,13 +31,13 @@ li {
     background-color: white;
     margin: 10px auto;
     padding: 15px;
-    max-width: 400px;
+    max-width: 120;
     border-radius: 8px;
 }
 
 /* TAMANHO DA LOGO */
 header img {
-    width: 180px;
+    width: 120px;
     height: auto;
     display: block;
     margin: 0 auto 20px;
